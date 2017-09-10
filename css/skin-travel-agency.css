@@ -1900,9 +1900,9 @@ body,
 	background-image: url(../images/travel-agency/generic/hero-half-2.jpg);
 }
 
-/* Call to Action */
+/* Call to Action -- start planning your dream vacation*/
 .call-to-action-2-1{
-	background-image: url(../images/travel-agency/generic/signup-1.jpg);
+	background-image: url(../photos/winter2.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -3750,13 +3750,13 @@ only screen and (				min-resolution: 2dppx) {
 		background-image: url(../images/travel-agency/generic/hero-half-2@2x.jpg);
 	}
 
-	/* Call to Action Sections */
+	/* Call to Action Sections - Start planning your dream vacation */
 	.call-to-action-2-1{
-		background-image: url(../images/travel-agency/generic/call-to-action-1@2x.jpg);
+		background-image: url(../photos/shoreline1.jpg);
 	}
 
 	/* Signup */
 	.signup-2-1{
-		background-image: url(../images/travel-agency/generic/signup-1@2x.jpg);
+		background-image: url(../photos/shoreline1.jpg);
 	}
 }
